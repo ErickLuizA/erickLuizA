@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Erick</h1>
-<h3 align="center">A Front End Developer current focused on ReactJS/React Native</h3>
+<h3 align="center">JavaScript Developer - ReactJS | React Native | Node.js</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erickLuizA" alt="erickLuizA" /> </p>
 
 - 🔭 I’m currently working on being a better developer
