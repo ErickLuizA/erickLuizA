@@ -11,4 +11,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-luiz-47151a1a4/)](https://www.linkedin.com/in/erick-luiz-47151a1a4/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:erickluiz69@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=erickLuizA&show_icons=true" alt="erickLuizA" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=erickLuizA&show_icons=true&theme=dracula" alt="erickLuizA"/> 
