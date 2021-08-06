@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Erick</h1>
-<h3 align="center">Mobile Developer from Brazil :brazil: </h3>
+<h3 align="center">Mobile & Web Developer from Brazil :brazil: </h3>
 
 ## 🛠  Technologies and tools
 
