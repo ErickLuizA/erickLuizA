@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Logo" title="React.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=8761f9" alt="React Native Logo" title="React Native" height="25" />&nbsp;
 
-<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android Logo" title="Android" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=9A39F4" alt="Kotlin Logo" title="Kotlin" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android Logo" title="Android" height="25" />&nbsp;
 
 <img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=3178C6" alt="Dart Logo" title="Dart" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=3178C6" alt="Flutter Logo" title="Flutter" height="25" />&nbsp;
