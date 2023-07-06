@@ -1,14 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Erick</h1>
 
-:pushpin: I'm a **Mobile Software Developer** from Brazil :brazil:.
+:pushpin: I'm a **Mobile Software Developer** from Brazil 🇧🇷
 
-## I specialize in:
+## 🔥 I specialize in
 
+<div> 
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+</div>
 
+## 🤔 About
+
+- **Working**: 📱 Mobile App Development
+- **Hobbies**: 👅 Language Learning | 📚 Books | 💻 Code
+- **Learning**: 🎨 UI/UX Design | ➿ DS/Algo | 🗣️ Rhetoric
 
 <table  align="left">
 
