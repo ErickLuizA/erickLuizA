@@ -13,7 +13,7 @@
 
 - **Working**: 📱 Mobile App Development
 - **Hobbies**: 👅 Language Learning | 📚 Books | 💻 Code
-- **Learning**: ➿ DS/Algo | 🇫🇷 French
+- **Learning**: ➿ DS/Algo | 🇫🇷 French | 🇩🇪 German
 
 <table  align="left">
 
